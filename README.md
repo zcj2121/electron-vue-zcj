@@ -1,6 +1,6 @@
 # electron-vue-zcj
 
-> 这是一个用electron-vue项目，是个人学习的demo
+> 这是一个electron-vue项目，是个人学习的demo，使用electron开发跨平台桌面应用。
 
 #### Build Setup
 
